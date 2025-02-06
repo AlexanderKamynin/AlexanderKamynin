@@ -6,7 +6,7 @@
 
 👨‍🎓 I'm a fourth-year student of Applied Mathematics and Computer Science at St. Petersburg State Electrotechnical University.
 
-💻 Passionate about Data Science and actively looking for a job in this field right now.
+💻 Passionate about DS/ML and actively looking for a job in this field right now.
 
 😉 I'm completely open to something new - feel free to contact me with any questions/suggestions!
 
